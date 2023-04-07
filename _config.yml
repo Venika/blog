@@ -101,7 +101,6 @@ defaults:
       path: ""
       type: posts
     values:
-      logo: 
       layout: single
       show_date: true
       author_profile: false
