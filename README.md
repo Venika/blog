@@ -1,5 +1,5 @@
 # Venika's Blog
-This is a space for me to share things that I have learned and projects that I am currently working on.
+An online space where I can openly share my thoughts, delve into my learnings, and provide updates on the exciting projects I'm currently working on!
 
 ## Minimal Mistakes remote theme starter
 
